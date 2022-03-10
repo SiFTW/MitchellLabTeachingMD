@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SiFTW/MitchellLabTeachingMD/HEAD)
+
 # MD simulations with Python
 Adapted from https://github.com/klyshko/md_python/blob/master/Lecture.ipynb
 
